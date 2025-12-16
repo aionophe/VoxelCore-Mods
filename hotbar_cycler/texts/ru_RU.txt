@@ -1,0 +1,1 @@
+hotbar_cycler.cycle_hotbar=Следующий хотбар
