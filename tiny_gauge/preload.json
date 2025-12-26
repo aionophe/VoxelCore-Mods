@@ -1,0 +1,19 @@
+{
+    "models": [
+        "rail_spline_tiny_straight",
+        "rail_spline_tiny_diagonal",
+
+        "rail_spline_short_straight",
+        "rail_spline_short_halfdiagonal",
+        "rail_spline_short_diagonal",
+
+        "rail_spline_long_straight",
+        "rail_spline_long_halfdiagonal",
+        "rail_spline_long_diagonal"
+    ],
+    "textures": [
+        "wraps/wrap_straight",
+        "wraps/wrap_split",
+        "wraps/wrap_unrelated"
+    ]
+}

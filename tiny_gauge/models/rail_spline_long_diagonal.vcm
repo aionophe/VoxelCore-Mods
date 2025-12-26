@@ -1,0 +1,153 @@
+# cube : rail
+@box origin(0.1875,0.0625,0.5) from(0.125,0.0625,-2.328426875) to(0.1875,0.125,3.328426875) {
+	@part tags(bottom) region(0.140625,0.7265625,0.1328125,0.375) texture "entities/rail_default"
+	@part tags(south) region(0.3203125,0.6171875,0.328125,0.625) texture "entities/rail_default"
+	@part tags(east) region(0.4765625,0.734375,0.125,0.7421875) texture "entities/rail_default"
+	@part tags(north) region(0.3125,0.6171875,0.3203125,0.625) texture "entities/rail_default"
+	@part tags(top) region(0.1328125,0.7265625,0.125,0.375) texture "entities/rail_default"
+	@part tags(west) region(0.125,0.7265625,0.4765625,0.734375) texture "entities/rail_default"
+}
+# cube : rail
+@box origin(0.8125,0.0625,0.5) from(0.8125,0.0625,-2.328426875) to(0.875,0.125,3.328426875) {
+	@part tags(bottom) region(0.015625,0.71875,0.0078125,0.3671875) texture "entities/rail_default"
+	@part tags(south) region(0.09375,0.609375,0.1015625,0.6171875) texture "entities/rail_default"
+	@part tags(east) region(0.4921875,0.71875,0.140625,0.7265625) texture "entities/rail_default"
+	@part tags(north) region(0.0859375,0.609375,0.09375,0.6171875) texture "entities/rail_default"
+	@part tags(top) region(0.0078125,0.71875,0,0.3671875) texture "entities/rail_default"
+	@part tags(west) region(0.140625,0.7109375,0.4921875,0.71875) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,0.5) from(0,0,0.40625) to(1,0.0625,0.59375) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,0.125) from(0,0,0.03125) to(1,0.0625,0.21875) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,-0.25) from(0,0,-0.34375) to(1,0.0625,-0.15625) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,-0.625) from(0,0,-0.71875) to(1,0.0625,-0.53125) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,-1) from(0,0,-1.09375) to(1,0.0625,-0.90625) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,-1.375) from(0,0,-1.46875) to(1,0.0625,-1.28125) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,-1.75) from(0,0,-1.84375) to(1,0.0625,-1.65625) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,-2.125) from(0,0,-2.21875) to(1,0.0625,-2.03125) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,0.875) from(0,0,0.78125) to(1,0.0625,0.96875) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,1.25) from(0,0,1.15625) to(1,0.0625,1.34375) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,1.625) from(0,0,1.53125) to(1,0.0625,1.71875) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,2) from(0,0,1.90625) to(1,0.0625,2.09375) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,2.375) from(0,0,2.28125) to(1,0.0625,2.46875) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,2.75) from(0,0,2.65625) to(1,0.0625,2.84375) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
+# cube : cube
+@box origin(0.5,0,3.125) from(0,0,3.03125) to(1,0.0625,3.21875) {
+	@part tags(bottom) region(0.375,0.9765625,0.25,0.953125) texture "entities/rail_default"
+	@part tags(south) region(0.375,0.859375,0.5,0.8671875) texture "entities/rail_default"
+	@part tags(east) region(0.1015625,0.625,0.078125,0.6328125) texture "entities/rail_default"
+	@part tags(north) region(0.375,0.8671875,0.5,0.875) texture "entities/rail_default"
+	@part tags(top) region(0.375,1,0.25,0.9765625) texture "entities/rail_default"
+	@part tags(west) region(0.1015625,0.625,0.125,0.6328125) texture "entities/rail_default"
+}
